@@ -14,7 +14,7 @@ public class SoftwareArithmetic
 
     public int multiply(int n1, int n2)
     {
-        int result = 0;
+        int result = n1*n2;
         boolean d = false;
 
         if (debugOutput)
